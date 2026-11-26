@@ -1,0 +1,9 @@
+# Arquivos de dados gerados nos testes
+*.txt
+meu_primeiro_big_data.txt
+
+# Cache e ambientes virtuais do Python
+__pycache__/
+*.py[cod]
+venv/
+.env
